@@ -24,32 +24,18 @@ The microgravity effects were pretty clear:
 
 Gravity turned out to be the most important feature for predicting material properties, with an importance score of 0.965. Temperature and density also mattered, but not as much.
 
-## What This Means
-
-The results suggest that microgravity really does change how these materials behave. The lower fragility and better glass formation in space might be useful for manufacturing specialized materials in orbit. The models also worked best at lower temperatures (R² = 0.46 for T < 1500K) compared to higher temperatures.
-
 ## Interactive Dashboard
 
-I made an interactive dashboard with Plotly showing:
+Open the dashboard in any browser (Chrome, Firefox, Safari) to explore the plots:
 
-- Model performance comparison
-- Feature importance
-- Microgravity effects on fragility and glass formation
-- Correlation between viscosity and fragility
-- Temperature zone analysis
-- Prediction errors
-
-You can open `nasa_psi178_analysis.html` in any browser to explore the plots. The 3D plots rotate, hover works, etc.
+**[Click here to view the dashboard](https://Pratikshat22.github.io/nasa-psi178-microgravity-analysis/nasa_psi178_analysis.html)**
 
 ## Files
 
 - `nasa_psi178_analysis.html` — interactive dashboard
-- `nasa_psi178_analysis_script.py` — the analysis code
 - `README.md` — this file
-- `requirements.txt` — dependencies
 
-## Running It Yourself
+## Data Source
 
-```bash
-pip install -r requirements.txt
-python analysis_script.py
+NASA Physical Sciences Informatics (PSI) — PSI-178 / ELF-6 experiment
+International Space Station, Electrostatic Levitation Furnace
