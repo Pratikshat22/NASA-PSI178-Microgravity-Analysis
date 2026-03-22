@@ -26,7 +26,7 @@ Gravity turned out to be the most important feature for predicting material prop
 
 ## Interactive Dashboard
 
-Open the dashboard in any browser (Chrome, Firefox, Safari) to explore the plots:
+Open the dashboard in any browse to explore the plots:
 
 **[Click here to view the dashboard](https://Pratikshat22.github.io/nasa-psi178-microgravity-analysis/nasa_psi178_analysis.html)**
 
