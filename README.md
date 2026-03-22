@@ -44,7 +44,7 @@ You can open `nasa_psi178_analysis.html` in any browser to explore the plots. Th
 ## Files
 
 - `nasa_psi178_analysis.html` — interactive dashboard
-- `Nasa_psi178_analysis_script.py` — the analysis code
+- `nasa_psi178_analysis_script.py` — the analysis code
 - `README.md` — this file
 - `requirements.txt` — dependencies
 
